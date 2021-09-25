@@ -69,7 +69,7 @@ function CCreditsPanel(){
         _oLinkOutline.outline = 2;
         _oContainer.addChild(_oLinkOutline);
 
-        _oLink = new createjs.Text("www.codethislab.com", "18px " + FONT_GAME, "#fff");
+        _oLink = new createjs.Text("cgmafia.github.io", "18px " + FONT_GAME, "#fff");
         _oLink.textAlign = "center";
         _oLink.textBaseline = "alphabetic";
 	_oLink.x = CANVAS_WIDTH/2;
