@@ -11,10 +11,11 @@ h3 {
 }
 .profile-pic{
   border-width: 10px;
-  border-color: white;
-  border-radius: 65px;
+  border-color: rgb(0, 0, 0);
+  border-radius: 5px;
   box-shadow: 10px;
 }
+
 .tech-left {
   font-size: 1rem;
   color: antiquewhite;
